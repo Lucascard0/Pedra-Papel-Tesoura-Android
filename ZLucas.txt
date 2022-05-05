@@ -1,0 +1,1 @@
+Projeto de aplicativo de Pedra, Papel ou Tesoura, do curso de Desenvolvimento Android, onde o usuário escolhe umas das 3 opções e o aplicativo faz sua própria escolha automática, ao final exibindo quem foi o vencedor.
